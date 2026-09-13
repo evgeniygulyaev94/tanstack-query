@@ -2,175 +2,65 @@
   "posts": [
     {
       "id": "1",
-      "title": "a title",
+      "title": "title 1",
       "views": 100
     },
     {
       "id": "2",
-      "title": "another title",
+      "title": "title 2",
       "views": 200
     },
     {
       "id": "3",
-      "title": "another title",
-      "views": 200
+      "title": "title 3",
+      "views": 300
     },
     {
       "id": "4",
-      "title": "another title",
-      "views": 200
+      "title": "title 4",
+      "views": 400
     },
     {
       "id": "5",
-      "title": "another title",
-      "views": 200
+      "title": "title 5",
+      "views": 500
     }
   ],
   "users": [
     {
-      "id": "9",
-      "username": "Vasya 9",
+      "id": "1",
+      "username": "Vasya 1",
       "age": 21
     },
     {
-      "id": "11",
-      "username": "Vasya 11",
-      "age": 21
+      "id": "2",
+      "username": "Petya 2",
+      "age": 22
     },
     {
-      "id": "13",
-      "username": "Vasya 13",
-      "age": 21
-    },
-    {
-      "id": "14",
-      "username": "Vasya 14",
-      "age": 21
-    },
-    {
-      "id": "15",
-      "username": "Vasya 15",
-      "age": 21
-    },
-    {
-      "id": "16",
-      "username": "Vasya 16",
-      "age": 21
-    },
-    {
-      "id": "17",
-      "username": "Vasya 17",
-      "age": 21
-    },
-    {
-      "id": "18",
-      "username": "Vasya 18",
-      "age": 21
-    },
-    {
-      "id": "19",
-      "username": "Vasya 19",
-      "age": 21
-    },
-    {
-      "id": "20",
-      "username": "Vasya 20",
-      "age": 21
-    },
-    {
-      "id": "21",
-      "username": "Vasya 21",
-      "age": 21
-    },
-    {
-      "id": "24",
-      "username": "Vasya 24",
-      "age": 21
-    },
-    {
-      "id": "25",
-      "username": "Vasya 25",
-      "age": 21
-    },
-    {
-      "id": "26",
-      "username": "Vasya 26",
-      "age": 21
-    },
-    {
-      "id": "27",
-      "username": "Vasya 27",
-      "age": 21
-    },
-    {
-      "username": "123123",
-      "age": 123123,
-      "id": "-6fQMw4"
-    },
-    {
-      "username": "safasfasfsa",
-      "age": 122222,
-      "id": "DA7LUew"
-    },
-    {
-      "username": "asfasffas",
+      "username": "qwe",
       "age": 123,
-      "id": "bkdyPsz"
+      "id": "sW7pXRw"
     },
     {
-      "username": "asfasffas",
+      "username": "qwe",
       "age": 123,
-      "id": "iL7rkvd"
+      "id": "xb5aUFJ"
     },
     {
-      "username": "aaaaa",
+      "username": "qwe",
       "age": 123,
-      "id": "Gw_5qBO"
+      "id": "LWbAXux"
     },
     {
-      "username": "123zzz",
+      "username": "qwe",
       "age": 123,
-      "id": "bANBdNS"
+      "id": "Lml-ivx"
     },
     {
-      "username": "111",
-      "age": 111,
-      "id": "k-0W38d"
-    },
-    {
-      "username": "asd",
+      "username": "qwe",
       "age": 123,
-      "id": "ZvTEKi1"
-    },
-    {
-      "username": "asd",
-      "age": 123,
-      "id": "Slc0hhj"
-    },
-    {
-      "username": "asd",
-      "age": 123,
-      "id": "PZ7TVvu"
-    },
-    {
-      "username": "123",
-      "age": 123,
-      "id": "RF8fNhB"
-    },
-    {
-      "username": "123",
-      "age": 123,
-      "id": "i6vtrq0"
-    },
-    {
-      "username": "12322ff",
-      "age": 123,
-      "id": "poFuG2I"
-    },
-    {
-      "username": "asf",
-      "age": 123,
-      "id": "PN_KGr_"
+      "id": "02crFSK"
     }
   ]
 }

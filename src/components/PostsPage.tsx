@@ -1,7 +1,10 @@
+import { Suspense } from 'react';
+import { PostsList } from './PostsList';
+
 export const PostsPage = () => {
   return (
-    <div className="flex flex-col gap-4">
-      PostsPage
-    </div>
+    <Suspense fallback={<div>Loading posts...</div>}>
+      <PostsList />
+    </Suspense>
   );
 };
